@@ -1,9 +1,9 @@
-NAMA  : Aulia Rachmi Liunsanda
-Kelas  : Informatika 1
-NIM  : 235410009
+NAMA  : Aulia Rachmi Liunsanda <br>
+Kelas  : Informatika 1 <br>
+NIM  : 235410009 <br>
 
-PRAKTIKUM SISTEM TERDISTRIBUSI DAN TERDESENTRALISASI
-Proses pada Satu Node
+PRAKTIKUM SISTEM TERDISTRIBUSI DAN TERDESENTRALISASI <br>
+Proses pada Satu Node<br>
 1. Menampilkan proses di komputer
    <img width="939" height="722" alt="image" src="https://github.com/user-attachments/assets/b7ba9185-8316-4789-9fd6-186e7152070c" />
 pada gambar ini menampilkan daftar proses di sistem operasi untuk melihat program yang sedang berjalan.
