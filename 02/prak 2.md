@@ -20,12 +20,14 @@ Proses pada Satu Node
 <img width="874" height="1089" alt="image" src="https://github.com/user-attachments/assets/0870e377-4781-4fc1-a0de-331df20054ae" />
 
    4. Menjalankan server GraphQL
-   5. Menjalankan query GraphQL
       <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/56c5274b-ba7b-479d-8332-0f293614e7c3" />
 <img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/a538dd87-3442-445e-85b7-0eae7f55c555" />
+   6. Menjalankan query GraphQL
+     
 <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/9a4d61c5-eae3-4f37-8c9a-6075f6b50b8a" />
 
    7. Membuat client
+<img width="834" height="738" alt="image" src="https://github.com/user-attachments/assets/7a7d7c16-3c3f-4c73-a07a-8e76d95e6283" />
 
-      <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/c5767f9d-3745-4a1e-b07a-a76e2f4b45d1" />
+
 
