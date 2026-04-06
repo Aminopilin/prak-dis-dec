@@ -39,7 +39,10 @@ pada gambar ini menampilkan query GraphQL untuk meminta data tertentu dari serve
 
    6. Membuat client
 <img width="834" height="738" alt="image" src="https://github.com/user-attachments/assets/7a7d7c16-3c3f-4c73-a07a-8e76d95e6283" />
-pada gambar ini menampilkan program client untuk mengakses server GraphQL
+pada gambar ini menampilkan program client untuk mengakses server GraphQL <br>
+
+<img width="889" height="389" alt="image" src="https://github.com/user-attachments/assets/8f780a17-f323-4f00-a5bd-34d534386ff3" />
+
 
 
 
