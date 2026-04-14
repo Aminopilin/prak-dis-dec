@@ -1,6 +1,6 @@
 <b> Nama  : Aulia Rachmi Liunsanda <br>
 NIM  : 235410009 <br>
-Kelas  : Iinformatika 1 <br> </b>
+Kelas  : Informatika 1 <br> </b>
 
 <H1> Sinkronisasi pada Sistem Terdistribusi <br> </H1>
 3.1 Sinkronisasi Waktu <br>
