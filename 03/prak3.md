@@ -7,6 +7,7 @@ Kelas  : Informatika 1 <br> </b>
 <img width="969" height="606" alt="image" src="https://github.com/user-attachments/assets/103e292a-0d18-4d79-acf8-5df57a2d4492" /> <br>
 Sinkronisasi waktu dilakukan dengan menghubungkan client ke server NTP untuk menyamakan waktu sistem. Chrony/NetTime akan mengirim request, menerima waktu server, lalu menghitung selisih (offset). Sistem kemudian menyesuaikan waktu secara bertahap agar tidak terjadi lonjakan.  <br>
 
+
 3.2 Vector Clock <br>
 vclocks<br>
 <img width="703" height="972" alt="image" src="https://github.com/user-attachments/assets/a9ae29ae-4515-4ef4-b675-cc6214337264" />  <br>
@@ -25,6 +26,7 @@ output <br>
 Class VectorClock dibuat untuk membungkus logika vector clock agar bisa digunakan ulang. Modul ini menyediakan fungsi seperti increment, update, dan compare antar clock. Contoh penggunaan menunjukkan bagaimana beberapa proses dapat berkomunikasi dan memperbarui waktu logisnya. <br>
 <br>
 
+
 3.3 Problem Tanpa Sinkronisasi <br>
 multithreaded-example <br>
 <img width="602" height="655" alt="image" src="https://github.com/user-attachments/assets/96a0a05a-e25b-4994-a1a9-1fba6b3b28ed" />  <br>
@@ -33,12 +35,15 @@ output <br>
 <br>
 Program ini menjalankan beberapa thread secara bersamaan tanpa sinkronisasi. Output bisa berbeda setiap kali dijalankan karena urutan eksekusi thread tidak deterministik. Hal ini terjadi karena CPU menjadwalkan thread secara acak.<br>
 <br>
+
+
 3.3.1 Data Race / Race Conditions <br>
 race-conditions-01 <br>
 <img width="640" height="363" alt="image" src="https://github.com/user-attachments/assets/13d3af36-d5c3-4542-89cf-3738e498c2e9" /> <br>
 output <br>
 <img width="1232" height="75" alt="image" src="https://github.com/user-attachments/assets/0caba45e-416e-447c-8c06-f24474ee34fd" /> <br>
 Race condition terjadi ketika beberapa thread mengakses dan memodifikasi data yang sama secara bersamaan. Tanpa mekanisme penguncian, nilai data bisa tidak sesuai harapan. Output program sering berubah karena interleaving eksekusi thread. Ini menyebabkan inkonsistensi data.<br>
+
 
 <img width="1280" height="944" alt="image" src="https://github.com/user-attachments/assets/fa95f3a9-6c33-4f9f-a2c4-0e2672728e99" /> <br>
 Terjadi ketika dua thread mengakses dan mengubah data yang sama secara bersamaan tanpa sinkronisasi sehingga hasilnya menjadi tidak konsisten. <br>
@@ -57,16 +62,20 @@ deadlock-01<br>
 output <br>
 <img width="1166" height="63" alt="image" src="https://github.com/user-attachments/assets/0d3e90a6-13ee-4a15-b364-855c47f70060" /> <br>
 Deadlock terjadi ketika dua atau lebih thread saling menunggu resource yang dikunci oleh thread lain. Akibatnya, semua thread berhenti dan tidak bisa melanjutkan eksekusi. Program tampak “hang” atau tidak selesai.<br>
+
+
 <img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/6bacbd60-4287-4647-b75a-f42fbd4c0a48" /> <br>
 Terjadi saat dua thread saling menunggu resource yang dipegang satu sama lain sehingga keduanya tidak bisa melanjutkan proses. <br>
 <br>
+
 
 deadlock-02 <br>
 <img width="625" height="880" alt="image" src="https://github.com/user-attachments/assets/93748b0f-cedc-4681-8c6f-111e6db06518" /> <br>
 output <br>
 <img width="1186" height="177" alt="image" src="https://github.com/user-attachments/assets/4a9ffad2-b89e-481e-a7c3-15cbc7e93dd3" /> <br>
 Deadlock dihindari dengan mengatur urutan penguncian resource atau menggunakan strategi tertentu. Thread tidak saling menunggu secara melingkar. Program dapat berjalan sampai selesai tanpa berhenti.<br>
-<br>
+
+
 3.4 Algoritma Raft <br>
 <img width="743" height="945" alt="image" src="https://github.com/user-attachments/assets/743f9408-af3a-4179-90eb-73f22c5860fb" /> <br>
 <img width="698" height="860" alt="image" src="https://github.com/user-attachments/assets/bfe787f9-8ee1-4433-b40f-9319ef291db5" /> <br>
@@ -75,10 +84,12 @@ output <br>
 <img width="417" height="839" alt="image" src="https://github.com/user-attachments/assets/bcc39ece-a50f-4080-90f5-f52c94bd7634" /> <br>
 <img width="324" height="973" alt="image" src="https://github.com/user-attachments/assets/a8ed7ba4-6517-4490-8c64-5b44779cb23c" /> <br>
 <img width="394" height="95" alt="image" src="https://github.com/user-attachments/assets/11c89580-9b50-4491-9eaf-618f4cacf417" /> <br>
-
 Program ini mensimulasikan algoritma Raft untuk memilih leader dalam sistem terdistribusi. Node akan melakukan election dengan mengirim vote ke node lain. Node dengan suara terbanyak menjadi leader. Output menunjukkan proses pemilihan dan pergantian leader secara sederhana. <br>
+
+
 <img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/c4fea17f-f5a1-45c7-a9e7-40d85ee4fe52" /> <br>
 Node dalam sistem melakukan voting, dan node dengan suara terbanyak akan dipilih sebagai leader untuk mengatur sistem.<br>
+
 
 Raft module & Test Raft<br>
 <img width="310" height="166" alt="image" src="https://github.com/user-attachments/assets/01545848-936c-4144-b1d7-eedc8f8a2164" /> <br>
@@ -86,6 +97,3 @@ Raft module & Test Raft<br>
 output
 <img width="1175" height="88" alt="image" src="https://github.com/user-attachments/assets/1e192188-6f29-4614-ba77-78301b5596e7" /> <br>
 Program diubah menjadi modul agar bisa digunakan ulang dalam simulasi lain. Modul menyediakan fungsi untuk node, voting, dan leader election. Contoh simulasi menunjukkan bagaimana beberapa node berinteraksi.<br>
-
-
-
