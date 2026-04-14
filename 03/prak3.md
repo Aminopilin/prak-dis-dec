@@ -24,8 +24,8 @@ Class VectorClock dibuat untuk membungkus logika vector clock agar bisa digunaka
 3.3 Problem Tanpa Sinkronisasi <br>
 <img width="602" height="655" alt="image" src="https://github.com/user-attachments/assets/96a0a05a-e25b-4994-a1a9-1fba6b3b28ed" />  <br>
 output <br>
-<img width="1246" height="238" alt="image" src="https://github.com/user-attachments/assets/81301e58-94af-4380-8c8c-e7f91b0dd548" /> <br>
-<img width="1246" height="159" alt="image" src="https://github.com/user-attachments/assets/3fdb620f-cc84-4dce-9e74-2b6364393375" /> <br>
+<img width="1249" height="461" alt="image" src="https://github.com/user-attachments/assets/0bf84eeb-3f1a-4082-ade1-8141b9aa7fd6" />
+<br>
 Program ini menjalankan beberapa thread secara bersamaan tanpa sinkronisasi. Output bisa berbeda setiap kali dijalankan karena urutan eksekusi thread tidak deterministik. Hal ini terjadi karena CPU menjadwalkan thread secara acak.<br>
 <br>
 3.3.1 Data Race / Race Conditions <br>
