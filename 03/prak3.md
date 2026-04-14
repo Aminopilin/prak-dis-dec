@@ -4,7 +4,7 @@ Kelas  : Iinformatika 1 <br>
 
 Sinkronisasi pada Sistem Terdistribusi <br>
 3.1 Sinkronisasi Waktu <br>
- 
+<img width="969" height="606" alt="image" src="https://github.com/user-attachments/assets/103e292a-0d18-4d79-acf8-5df57a2d4492" /> <br>
 Sinkronisasi waktu dilakukan dengan menghubungkan client ke server NTP untuk menyamakan waktu sistem. Chrony/NetTime akan mengirim request, menerima waktu server, lalu menghitung selisih (offset). Sistem kemudian menyesuaikan waktu secara bertahap agar tidak terjadi lonjakan.  <br>
 3.2 Vector Clock <br>
 <img width="703" height="972" alt="image" src="https://github.com/user-attachments/assets/a9ae29ae-4515-4ef4-b675-cc6214337264" />  <br>
@@ -60,4 +60,12 @@ output <br>
 <img width="394" height="95" alt="image" src="https://github.com/user-attachments/assets/11c89580-9b50-4491-9eaf-618f4cacf417" /> <br>
 
 Program ini mensimulasikan algoritma Raft untuk memilih leader dalam sistem terdistribusi. Node akan melakukan election dengan mengirim vote ke node lain. Node dengan suara terbanyak menjadi leader. Output menunjukkan proses pemilihan dan pergantian leader secara sederhana.
+
+<img width="310" height="166" alt="image" src="https://github.com/user-attachments/assets/01545848-936c-4144-b1d7-eedc8f8a2164" /> <br>
+<img width="376" height="208" alt="image" src="https://github.com/user-attachments/assets/fd23dfc3-1e36-4893-bd41-cacbc3d02557" /> <br>
+output
+<img width="1175" height="88" alt="image" src="https://github.com/user-attachments/assets/1e192188-6f29-4614-ba77-78301b5596e7" /> <br>
+Program diubah menjadi modul agar bisa digunakan ulang dalam simulasi lain. Modul menyediakan fungsi untuk node, voting, dan leader election. Contoh simulasi menunjukkan bagaimana beberapa node berinteraksi.<br>
+
+
 
