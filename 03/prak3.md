@@ -33,7 +33,9 @@ Program ini menjalankan beberapa thread secara bersamaan tanpa sinkronisasi. Out
 output <br>
 <img width="1232" height="75" alt="image" src="https://github.com/user-attachments/assets/0caba45e-416e-447c-8c06-f24474ee34fd" /> <br>
 Race condition terjadi ketika beberapa thread mengakses dan memodifikasi data yang sama secara bersamaan. Tanpa mekanisme penguncian, nilai data bisa tidak sesuai harapan. Output program sering berubah karena interleaving eksekusi thread. Ini menyebabkan inkonsistensi data.<br>
-
+<img width="1280" height="944" alt="image" src="https://github.com/user-attachments/assets/fa95f3a9-6c33-4f9f-a2c4-0e2672728e99" /> <br>
+Terjadi ketika dua thread mengakses dan mengubah data yang sama secara bersamaan tanpa sinkronisasi sehingga hasilnya menjadi tidak konsisten. <br>
+<br>
 <img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/97523d98-c958-4419-9ebb-07c0ba45b4ff" /> <br>
 output <br>
 <img width="1233" height="54" alt="image" src="https://github.com/user-attachments/assets/36aa96aa-bf58-4491-8e85-91c103a4154d" /> <br>
@@ -44,6 +46,8 @@ Program ini menggunakan mekanisme lock untuk menghindari akses bersamaan ke data
 output <br>
 <img width="1166" height="63" alt="image" src="https://github.com/user-attachments/assets/0d3e90a6-13ee-4a15-b364-855c47f70060" /> <br>
 Deadlock terjadi ketika dua atau lebih thread saling menunggu resource yang dikunci oleh thread lain. Akibatnya, semua thread berhenti dan tidak bisa melanjutkan eksekusi. Program tampak “hang” atau tidak selesai.<br>
+<img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/6bacbd60-4287-4647-b75a-f42fbd4c0a48" /> <br>
+Terjadi saat dua thread saling menunggu resource yang dipegang satu sama lain sehingga keduanya tidak bisa melanjutkan proses. <br>
 <br>
 <img width="625" height="880" alt="image" src="https://github.com/user-attachments/assets/93748b0f-cedc-4681-8c6f-111e6db06518" /> <br>
 output <br>
@@ -59,7 +63,9 @@ output <br>
 <img width="324" height="973" alt="image" src="https://github.com/user-attachments/assets/a8ed7ba4-6517-4490-8c64-5b44779cb23c" /> <br>
 <img width="394" height="95" alt="image" src="https://github.com/user-attachments/assets/11c89580-9b50-4491-9eaf-618f4cacf417" /> <br>
 
-Program ini mensimulasikan algoritma Raft untuk memilih leader dalam sistem terdistribusi. Node akan melakukan election dengan mengirim vote ke node lain. Node dengan suara terbanyak menjadi leader. Output menunjukkan proses pemilihan dan pergantian leader secara sederhana.
+Program ini mensimulasikan algoritma Raft untuk memilih leader dalam sistem terdistribusi. Node akan melakukan election dengan mengirim vote ke node lain. Node dengan suara terbanyak menjadi leader. Output menunjukkan proses pemilihan dan pergantian leader secara sederhana. <br>
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/c4fea17f-f5a1-45c7-a9e7-40d85ee4fe52" /> <br>
+Node dalam sistem melakukan voting, dan node dengan suara terbanyak akan dipilih sebagai leader untuk mengatur sistem.<br>
 
 <img width="310" height="166" alt="image" src="https://github.com/user-attachments/assets/01545848-936c-4144-b1d7-eedc8f8a2164" /> <br>
 <img width="376" height="208" alt="image" src="https://github.com/user-attachments/assets/fd23dfc3-1e36-4893-bd41-cacbc3d02557" /> <br>
