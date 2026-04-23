@@ -61,6 +61,12 @@ Screenshot ini menunjukkan bahwa terdapat dua container aktif: primary dan repli
 Primary server dimatikan untuk simulasi kegagalan sistem. Ini bertujuan menguji apakah replica bisa mengambil alih peran
 
 4.2 Replikasi Master-Master Menggunakan Apache Ignite <br>
+<img width="1463" height="163" alt="image" src="https://github.com/user-attachments/assets/301609d5-c968-4a7a-b8de-d0dc187b3bcd" />
+
+<img width="1449" height="370" alt="image" src="https://github.com/user-attachments/assets/ab1be669-2ed6-4732-842c-dc3b144d537d" />
+
+<img width="1463" height="301" alt="image" src="https://github.com/user-attachments/assets/a85cfcdf-8d00-4b9d-8dca-41d494cac7e9" />
+
 4.2.1 Prasyarat<br>
 4.2.2. Struktur direktori dan file<br>
 4.2.3 Menjalankan docker-compose <br>
