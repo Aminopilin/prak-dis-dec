@@ -30,28 +30,35 @@ File ini berisi alias untuk mempermudah penggunaan perintah Docker. Dengan alias
 
 
 4.1.3 Menjalankan docker-compose <br>
-<img width="947" height="151" alt="image" src="https://github.com/user-attachments/assets/789bd11f-f6b7-437e-8f27-7391e30a3d95" />
+<img width="947" height="151" alt="image" src="https://github.com/user-attachments/assets/789bd11f-f6b7-437e-8f27-7391e30a3d95" /> <br>
  <br>
 Saat pertama kali dijalankan, Docker akan melakukan pull image PostgreSQL dari Docker Hub. Proses ini menunjukkan container sedang dipersiapkan.
 
-<img width="936" height="236" alt="image" src="https://github.com/user-attachments/assets/752f2597-5ce6-4ee2-80c9-d1e0138f6834" />
+<img width="936" height="236" alt="image" src="https://github.com/user-attachments/assets/752f2597-5ce6-4ee2-80c9-d1e0138f6834" /> <br>
  <br>
 Screenshot ini menunjukkan bahwa terdapat dua container aktif: primary dan replica. Status “healthy” menandakan bahwa PostgreSQL berjalan dengan baik.
 
 4.1.4 Pengujian <br>
 <img width="444" height="206" alt="image" src="https://github.com/user-attachments/assets/f83121d9-039e-4081-b166-c37a7e88ad1f" />
+<br>
+<img width="467" height="117" alt="image" src="https://github.com/user-attachments/assets/e93db958-bc99-4279-ad36-5ff970c34559" /><br>
 
-<img width="467" height="117" alt="image" src="https://github.com/user-attachments/assets/e93db958-bc99-4279-ad36-5ff970c34559" />
 
+<img width="928" height="122" alt="image" src="https://github.com/user-attachments/assets/8817e20f-31be-4d4b-bb04-cbfcd819e803" /><br>
 
-<img width="928" height="122" alt="image" src="https://github.com/user-attachments/assets/8817e20f-31be-4d4b-bb04-cbfcd819e803" />
+<img width="926" height="143" alt="image" src="https://github.com/user-attachments/assets/fed65a32-fe54-4f9b-8b02-7fec065bc058" /><br>
 
-<img width="926" height="143" alt="image" src="https://github.com/user-attachments/assets/fed65a32-fe54-4f9b-8b02-7fec065bc058" />
+<img width="929" height="303" alt="image" src="https://github.com/user-attachments/assets/352c00dd-912f-4532-bf17-16af32647582" /><br>
 
-<img width="929" height="303" alt="image" src="https://github.com/user-attachments/assets/352c00dd-912f-4532-bf17-16af32647582" />
+<img width="478" height="386" alt="image" src="https://github.com/user-attachments/assets/bbe355e0-5326-4663-ad61-f48e56b2c4c5" /> <br>
 
 
 4.1.5 High-Availability<br>
+
+<img width="478" height="386" alt="image" src="https://github.com/user-attachments/assets/bbe355e0-5326-4663-ad61-f48e56b2c4c5" /> <br>
+
+<img width="908" height="98" alt="image" src="https://github.com/user-attachments/assets/c5920d76-7539-4a87-8d63-4706fd583446" /> <br>
+Primary server dimatikan untuk simulasi kegagalan sistem. Ini bertujuan menguji apakah replica bisa mengambil alih peran
 
 4.2 Replikasi Master-Master Menggunakan Apache Ignite <br>
 4.2.1 Prasyarat<br>
