@@ -41,7 +41,8 @@ Screenshot ini menunjukkan bahwa terdapat dua container aktif: primary dan repli
 4.1.4 Pengujian <br>
 <img width="444" height="206" alt="image" src="https://github.com/user-attachments/assets/f83121d9-039e-4081-b166-c37a7e88ad1f" />
 
-<img width="461" height="122" alt="image" src="https://github.com/user-attachments/assets/01ea4b05-3a81-4a1d-939c-4ab85923eddb" />
+<img width="467" height="117" alt="image" src="https://github.com/user-attachments/assets/e93db958-bc99-4279-ad36-5ff970c34559" />
+
 
 <img width="928" height="122" alt="image" src="https://github.com/user-attachments/assets/8817e20f-31be-4d4b-bb04-cbfcd819e803" />
 
