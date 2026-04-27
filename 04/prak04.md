@@ -71,6 +71,8 @@ Primary server dimatikan untuk simulasi kegagalan sistem. Ini bertujuan menguji 
 
 <img width="593" height="497" alt="image" src="https://github.com/user-attachments/assets/bed101cd-add2-4556-948b-a7affe06c80b" />
 
+<img width="753" height="815" alt="image" src="https://github.com/user-attachments/assets/eba7f8f4-9433-444c-a3b7-d24a5497107e" />
+
 4.2.1 Prasyarat<br>
 4.2.2. Struktur direktori dan file<br>
 4.2.3 Menjalankan docker-compose <br>
