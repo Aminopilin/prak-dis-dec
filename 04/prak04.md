@@ -76,6 +76,7 @@ Primary server dimatikan untuk simulasi kegagalan sistem. Ini bertujuan menguji 
 <img width="1670" height="375" alt="image" src="https://github.com/user-attachments/assets/89af9098-6957-4030-a3cf-f0457d990aaa" />
 
 <img width="1670" height="401" alt="image" src="https://github.com/user-attachments/assets/55b5cb45-ab04-47c2-8e2b-87e2c039da12" />
+<img width="598" height="553" alt="image" src="https://github.com/user-attachments/assets/8bb18c66-3b62-40a8-a5d7-218b7075b3e4" />
 
 
 4.2.1 Prasyarat<br>
