@@ -11,17 +11,18 @@ Pada bagian ini dibuat folder kerja (misalnya workspace-05) yang berfungsi sebag
 Tahapan ini menunjukkan proses pembuatan virtual environment menggunakan Python
 
 Install Blacksheep dan Blacksheep-CLI
-<img width="940" height="84" alt="image" src="https://github.com/user-attachments/assets/9ce65e35-0058-41e0-a50b-aa1422c43e80" />
-
+<img width="940" height="1151" alt="image" src="https://github.com/user-attachments/assets/44781e2a-0434-4dd2-8ee3-bb12c043a33f" />
+Pada bagian ini dilakukan instalasi framework Blacksheep dan CLI-nya menggunakan pip. Framework ini digunakan untuk membuat aplikasi web berbasis ASGI. Hasil install menampilkan daftar package yang berhasil terpasang, yang menunjukkan bahwa environment sudah siap untuk membuat aplikasi.
 
  <img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/094731bd-8a1e-4ded-b49c-35c69cf9f03d" />
 
+Pembuatan Project Blacksheep
 <img width="841" height="383" alt="image" src="https://github.com/user-attachments/assets/cea2ed32-0f0c-4d4b-a6bb-f1c97537eaf3" />
-Pada bagian ini dilakukan instalasi framework Blacksheep dan CLI-nya menggunakan pip. Framework ini digunakan untuk membuat aplikasi web berbasis ASGI. Hasil install menampilkan daftar package yang berhasil terpasang, yang menunjukkan bahwa environment sudah siap untuk membuat aplikasi.
+Screenshot ini menunjukkan proses pembuatan aplikasi menggunakan CLI Blacksheep. Aplikasi yang dibuat masih berupa template sederhana (default). Tujuannya adalah sebagai contoh untuk memahami konsep load balancing, bukan untuk pengembangan fitur kompleks.
 
 Pembuatan Project Blacksheep
 <img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/0ba88716-e33c-4235-8ea0-e2b640b9d0de" />
-Screenshot ini menunjukkan proses pembuatan aplikasi menggunakan CLI Blacksheep. Aplikasi yang dibuat masih berupa template sederhana (default). Tujuannya adalah sebagai contoh untuk memahami konsep load balancing, bukan untuk pengembangan fitur kompleks.
+
 
 <img width="940" height="198" alt="image" src="https://github.com/user-attachments/assets/c1bfd669-dfbb-42b2-abcf-f9b71bceb73a" />
 http://localhost:44777
