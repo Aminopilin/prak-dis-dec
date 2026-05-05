@@ -1,11 +1,13 @@
 <h4> Nama : Aulia Rachmi Liunsanda <br>
 NIM : 235410009  <br>
 Kelas : Informatika 1  <br> <h4>
+ <br>
 <H1>distributed File System-HDFS</H1>
-install JDK  <br>
+ <br>
+<b>install JDK  <br>
 <img width="1082" height="110" alt="image" src="https://github.com/user-attachments/assets/52ead82a-232b-427c-bd3b-eafd1020efb5" />  <br>
 
-<b> Install hadoop  <br>
+ Install hadoop  <br>
 <img width="472" height="38" alt="image" src="https://github.com/user-attachments/assets/fb150371-513c-4743-a5e4-3480c8b3aa60" />  <br>
 <img width="595" height="912" alt="image" src="https://github.com/user-attachments/assets/f1871e30-d9da-4262-99ba-58f00298b897" />  <br>
 
