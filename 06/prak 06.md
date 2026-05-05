@@ -26,8 +26,7 @@ core-site.xml
 <img width="941" height="861" alt="image" src="https://github.com/user-attachments/assets/c2bd8abf-9324-4a38-975c-f7a57aebdee8" />  <br>
 mapred-site.xml 
 <img width="949" height="763" alt="image" src="https://github.com/user-attachments/assets/9647338d-398f-450a-a341-4f06d8f070a8" />  <br>
-/yarn-site.xml 
-<img width="947" height="809" alt="image" src="https://github.com/user-attachments/assets/5c1bf745-caee-49b9-8001-901805443ab1" />  <br>
+yarn-site.xml 
 <img width="940" height="937" alt="image" src="https://github.com/user-attachments/assets/08b63d84-b7af-4be3-8c80-02dda9ff4429" />  <br>
 
 Set java hadoop  <br>
@@ -44,7 +43,10 @@ http://localhost:9870
 <img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/b79eadfb-c30c-4481-a9da-9e6570dd5156" />  <br>
 
 TUGAS  <br>
+buat direktori baru
 <img width="941" height="145" alt="image" src="https://github.com/user-attachments/assets/9429a04e-b149-4579-8160-8c5bd9fd55e2" />  <br>
+Cari 3 file .csv di Internet dan kemudian copykan 3 file tersebut ke direktori yang baru 
+saja anda buat pada tugas 1 di atas. <br>
 <img width="1365" height="479" alt="image" src="https://github.com/user-attachments/assets/663ff0f9-b2a6-4668-a9ee-ae3aa576e58a" />  <br>
 <img width="1855" height="237" alt="image" src="https://github.com/user-attachments/assets/fbab4033-9bc9-40b0-a2cf-54dcac4d9c5d" />  <br>
 
