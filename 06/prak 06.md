@@ -1,7 +1,7 @@
-Nama : Aulia Rachmi Liunsanda <br>
+<h4> Nama : Aulia Rachmi Liunsanda <br>
 NIM : 235410009  <br>
-Kelas : Informatika 1  <br>
-
+Kelas : Informatika 1  <br> <h4>
+<H1>distributed File System-HDFS</H1>
 install JDK  <br>
 <img width="1082" height="110" alt="image" src="https://github.com/user-attachments/assets/52ead82a-232b-427c-bd3b-eafd1020efb5" />  <br>
 
