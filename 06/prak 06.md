@@ -47,9 +47,9 @@ buat direktori baru
 <img width="941" height="145" alt="image" src="https://github.com/user-attachments/assets/9429a04e-b149-4579-8160-8c5bd9fd55e2" />  <br>
 Cari 3 file .csv di Internet dan kemudian copykan 3 file tersebut ke direktori yang baru 
 saja anda buat pada tugas 1 di atas. <br>
-<img width="1365" height="479" alt="image" src="https://github.com/user-attachments/assets/663ff0f9-b2a6-4668-a9ee-ae3aa576e58a" />  <br>
+<img width="1365" height="479" alt="image" src="https://github.com/user-attachments/assets/663ff0f9-b2a6-4668-a9ee-ae3aa576e58a" />  
 <img width="1855" height="237" alt="image" src="https://github.com/user-attachments/assets/fbab4033-9bc9-40b0-a2cf-54dcac4d9c5d" />  <br>
 
 mematikan HDFS <br>
-<img width="486" height="112" alt="image" src="https://github.com/user-attachments/assets/918f8c61-da2c-410f-b4e2-fe8a229b892a" />  <br>
+<img width="486" height="112" alt="image" src="https://github.com/user-attachments/assets/918f8c61-da2c-410f-b4e2-fe8a229b892a" />  
 <img width="314" height="89" alt="image" src="https://github.com/user-attachments/assets/04d0bb4c-51b3-40f3-b8dc-8b9e01192c60" />  <br>
