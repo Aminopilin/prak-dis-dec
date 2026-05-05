@@ -16,57 +16,38 @@ Set Environment variable  <br>
 
  <br> konfigurasi SSH
 <img width="739" height="508" alt="image" src="https://github.com/user-attachments/assets/36d074c9-6ede-41fa-a095-235262026e8f" />  <br>
-
 test  <br>
 <img width="931" height="367" alt="image" src="https://github.com/user-attachments/assets/281c7108-d0cb-4f21-a2ab-1ae1d8ef08e3" />  <br>
 
-Konfigurasi hadoop  <br>
-
+Konfigurasi apache hadoop  <br>
+hdfs-site.xml
 <img width="951" height="645" alt="image" src="https://github.com/user-attachments/assets/42fb48f9-41c0-47ab-912a-3ae470adf537" />  <br>
-
-
+core-site.xml 
 <img width="941" height="861" alt="image" src="https://github.com/user-attachments/assets/c2bd8abf-9324-4a38-975c-f7a57aebdee8" />  <br>
-
-
+mapred-site.xml 
 <img width="949" height="763" alt="image" src="https://github.com/user-attachments/assets/9647338d-398f-450a-a341-4f06d8f070a8" />  <br>
-
-
+/yarn-site.xml 
 <img width="947" height="809" alt="image" src="https://github.com/user-attachments/assets/5c1bf745-caee-49b9-8001-901805443ab1" />  <br>
-
-
 <img width="940" height="937" alt="image" src="https://github.com/user-attachments/assets/08b63d84-b7af-4be3-8c80-02dda9ff4429" />  <br>
 
 Set java hadoop  <br>
-
 <img width="866" height="255" alt="image" src="https://github.com/user-attachments/assets/5167b978-09b7-4109-ae20-a4edf1a79b94" />  <br>
 
 Format NameNode  <br>
 <img width="951" height="278" alt="image" src="https://github.com/user-attachments/assets/d831d07b-6ef8-44bf-90ec-6e383aa59efb" />  <br>
-
 <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/a1797c06-99ec-4399-aa3b-828d922bfdde" />  <br>
 
 Jalankan hadoop  <br>
 <img width="570" height="185" alt="image" src="https://github.com/user-attachments/assets/90f5ba83-d3fb-40c5-afe0-3f1c0d58ac8d" />  <br>
-
 cek browser  <br>
-
+http://localhost:9870
 <img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/b79eadfb-c30c-4481-a9da-9e6570dd5156" />  <br>
 
 TUGAS  <br>
-
 <img width="941" height="145" alt="image" src="https://github.com/user-attachments/assets/9429a04e-b149-4579-8160-8c5bd9fd55e2" />  <br>
-
 <img width="1365" height="479" alt="image" src="https://github.com/user-attachments/assets/663ff0f9-b2a6-4668-a9ee-ae3aa576e58a" />  <br>
-
 <img width="1855" height="237" alt="image" src="https://github.com/user-attachments/assets/fbab4033-9bc9-40b0-a2cf-54dcac4d9c5d" />  <br>
 
 mematikan HDFS <br>
-
 <img width="486" height="112" alt="image" src="https://github.com/user-attachments/assets/918f8c61-da2c-410f-b4e2-fe8a229b892a" />  <br>
-
-
 <img width="314" height="89" alt="image" src="https://github.com/user-attachments/assets/04d0bb4c-51b3-40f3-b8dc-8b9e01192c60" />  <br>
-
-
-
-
