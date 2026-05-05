@@ -56,5 +56,5 @@ mematikan HDFS <br>
 <img width="486" height="112" alt="image" src="https://github.com/user-attachments/assets/918f8c61-da2c-410f-b4e2-fe8a229b892a" />  
 <img width="314" height="89" alt="image" src="https://github.com/user-attachments/assets/04d0bb4c-51b3-40f3-b8dc-8b9e01192c60" />  <br> </b>
 
-<b> pembahasan </b>
+<b> pembahasan </b> <br>
 Pada praktikum kali ini dilakukan implementasi sistem penyimpanan terdistribusi menggunakan Apache Hadoop dengan memanfaatkan HDFS (Hadoop Distributed File System). Praktikum diawali dengan menyiapkan lingkungan sistem seperti instalasi JDK, Hadoop, serta konfigurasi SSH agar proses komunikasi dapat berjalan dengan lancar. Selanjutnya dilakukan konfigurasi pada beberapa file penting seperti *core-site.xml* dan *hdfs-site.xml* untuk menentukan alamat NameNode dan pengaturan replikasi data. Setelah itu dilakukan proses formatting NameNode sebagai tahap inisialisasi, kemudian menjalankan daemon HDFS agar sistem dapat digunakan. Pada tahap akhir, dilakukan pengujian dengan membuat direktori dan mengunggah file dataset ke dalam HDFS, sehingga dapat disimpulkan bahwa sistem ini mampu mengelola penyimpanan data secara terdistribusi, efisien, dan mendukung kebutuhan pengolahan data skala besar .
