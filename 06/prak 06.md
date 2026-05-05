@@ -26,3 +26,28 @@ Konfigurasi hadoop
 
 
 <img width="941" height="861" alt="image" src="https://github.com/user-attachments/assets/c2bd8abf-9324-4a38-975c-f7a57aebdee8" />
+
+
+<img width="949" height="763" alt="image" src="https://github.com/user-attachments/assets/9647338d-398f-450a-a341-4f06d8f070a8" />
+
+
+<img width="947" height="809" alt="image" src="https://github.com/user-attachments/assets/5c1bf745-caee-49b9-8001-901805443ab1" />
+
+
+<img width="940" height="937" alt="image" src="https://github.com/user-attachments/assets/08b63d84-b7af-4be3-8c80-02dda9ff4429" />
+
+Set java hadoop
+
+<img width="866" height="255" alt="image" src="https://github.com/user-attachments/assets/5167b978-09b7-4109-ae20-a4edf1a79b94" />
+
+Format NameNode
+<img width="951" height="278" alt="image" src="https://github.com/user-attachments/assets/d831d07b-6ef8-44bf-90ec-6e383aa59efb" />
+
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/a1797c06-99ec-4399-aa3b-828d922bfdde" />
+
+Jalankan hadoop
+<img width="570" height="185" alt="image" src="https://github.com/user-attachments/assets/90f5ba83-d3fb-40c5-afe0-3f1c0d58ac8d" />
+
+cek browser
+
+<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/b79eadfb-c30c-4481-a9da-9e6570dd5156" />
