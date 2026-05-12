@@ -54,7 +54,7 @@ Melihat docker image
 <img width="953" height="529" alt="image" src="https://github.com/user-attachments/assets/19759585-2fc5-4f03-a842-eb9690a934c3" /> <br>
 menjalankan container
 <img width="947" height="321" alt="image" src="https://github.com/user-attachments/assets/8a2dc167-5c38-4185-9cc1-7b5292f52499" /> <br>
- jalankan aplikasi di container ke port 5001
+port 5001
 <img width="956" height="285" alt="image" src="https://github.com/user-attachments/assets/0c80af3c-a09e-48e4-bc2b-89cb2fc37ad6" /> <br>
  cek docker container di terminal yang beda
 <img width="948" height="250" alt="image" src="https://github.com/user-attachments/assets/0400cf6d-6cd7-4baa-adff-1fea1a60ec35" /> <br>
