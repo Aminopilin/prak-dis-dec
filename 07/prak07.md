@@ -19,6 +19,11 @@ Menjalankan Flask
 
 <img width="904" height="431" alt="image" src="https://github.com/user-attachments/assets/bda43f25-767d-419c-b490-f5f18aea3532" />
 
+<img width="937" height="586" alt="image" src="https://github.com/user-attachments/assets/623e4931-09e0-4c66-9f7e-9c49e4f77614" />
+<img width="953" height="529" alt="image" src="https://github.com/user-attachments/assets/19759585-2fc5-4f03-a842-eb9690a934c3" />
+<img width="947" height="321" alt="image" src="https://github.com/user-attachments/assets/8a2dc167-5c38-4185-9cc1-7b5292f52499" />
+
+<img width="956" height="285" alt="image" src="https://github.com/user-attachments/assets/0c80af3c-a09e-48e4-bc2b-89cb2fc37ad6" />
 
 <img width="948" height="250" alt="image" src="https://github.com/user-attachments/assets/0400cf6d-6cd7-4baa-adff-1fea1a60ec35" />
 
