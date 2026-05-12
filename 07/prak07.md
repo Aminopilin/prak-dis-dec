@@ -23,6 +23,7 @@ Kelas :Informatika 1  <br>
    jaringan, dan penyimpanan (storage). Konsumen memiliki kendali atas sistem operasi dan aplikasi yang mereka pasang di atas
    infrastruktur tersebut.
     <br>
+     <br>
 3. Arsirektur <br>
 <b>
 <img width="1139" height="902" alt="image" src="https://github.com/user-attachments/assets/83db9549-7802-417e-8c26-acf519650971" />
@@ -43,13 +44,18 @@ Menjalankan Flask <br>
 
 <img width="947" height="516" alt="image" src="https://github.com/user-attachments/assets/f6e25990-cc6c-407d-8478-7978349d30ec" /> <br>
 
+Membuat dockerfile
 <img width="904" height="431" alt="image" src="https://github.com/user-attachments/assets/bda43f25-767d-419c-b490-f5f18aea3532" /> <br>
 
+docker image
 <img width="937" height="586" alt="image" src="https://github.com/user-attachments/assets/623e4931-09e0-4c66-9f7e-9c49e4f77614" /> <br>
+
+Melihat docker image
 <img width="953" height="529" alt="image" src="https://github.com/user-attachments/assets/19759585-2fc5-4f03-a842-eb9690a934c3" /> <br>
+menjalankan container
 <img width="947" height="321" alt="image" src="https://github.com/user-attachments/assets/8a2dc167-5c38-4185-9cc1-7b5292f52499" /> <br>
-
+ jalankan aplikasi di container ke port 5001
 <img width="956" height="285" alt="image" src="https://github.com/user-attachments/assets/0c80af3c-a09e-48e4-bc2b-89cb2fc37ad6" /> <br>
-
+ cek docker container di terminal yang beda
 <img width="948" height="250" alt="image" src="https://github.com/user-attachments/assets/0400cf6d-6cd7-4baa-adff-1fea1a60ec35" /> <br>
 </b>
