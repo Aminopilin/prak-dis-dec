@@ -11,34 +11,41 @@ Kelas : Informatika 1
 3. Install Semua Package
     <img width="930" height="905" alt="image" src="https://github.com/user-attachments/assets/ed6edbf7-8faf-432f-b781-70e5b30c2d97" />
 
-4. Menjalankan GraphQL Server
- 
-5. Membuka GraphQL di Browser
- 
-6. Menjalankan Query GraphQL
- 
-7. Hasil GraphQL
- 
-8. Menjalankan GraphQL Client
- 
-9. Buat venv Client
- 
-10. Install Package
- 
-11. Jalankan Client
+4. MembuatDatabase SQLite
+   <img width="874" height="451" alt="image" src="https://github.com/user-attachments/assets/5fb62f53-e288-4ab1-adca-ad920ee83832" />
 
-12. Setup gRPC Server
- 
-13. Masuk Folder gRPC Server
-    
-14. Buat venv
+5. Menjalankan GraphQL Server
+<img width="934" height="220" alt="image" src="https://github.com/user-attachments/assets/b565ddab-2f84-4212-84ea-c77293fdad51" />
 
-15. Aktifkan venv
+
+6. Membuka GraphQL di Browser
+ <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/081aed47-3196-4617-8af6-33537d9403f5" />
+
+7. Menjalankan Query GraphQL
+ 
+8. Hasil GraphQL
+ <img width="1824" height="816" alt="image" src="https://github.com/user-attachments/assets/00358b5d-3808-4bef-ac74-7c361ea0ec8c" />
+
+9. Menjalankan GraphQL Client
+ 
+10. Buat venv Client
+ 
+11. Install Package
+ 
+12. Jalankan Client
+
+13. Setup gRPC Server
+ 
+14. Masuk Folder gRPC Server
     
-16. Install Package
+15. Buat venv
+
+16. Aktifkan venv
     
-17. Jalankan Client
+17. Install Package
     
-18. Hasil gRPC
+18. Jalankan Client
+    
+19. Hasil gRPC
 
 TUGAS
