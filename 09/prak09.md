@@ -20,19 +20,14 @@ Kelas : Informatika 1
 
 6. Membuka GraphQL di Browser
  <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/081aed47-3196-4617-8af6-33537d9403f5" />
-
-7. Menjalankan Query GraphQL
  
 8. Hasil GraphQL
  <img width="1824" height="816" alt="image" src="https://github.com/user-attachments/assets/00358b5d-3808-4bef-ac74-7c361ea0ec8c" />
 
 9. Menjalankan GraphQL Client
- 
-10. Buat venv Client
- 
-11. Install Package
- 
-12. Jalankan Client
+ <img width="886" height="806" alt="image" src="https://github.com/user-attachments/assets/7b8fb123-49b7-4975-814e-8b1b4714da90" />
+<img width="960" height="75" alt="image" src="https://github.com/user-attachments/assets/7146e750-d580-4eab-b0e9-9cd75503f560" />
+
 
 13. Setup gRPC Server
  
