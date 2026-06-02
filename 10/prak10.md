@@ -14,8 +14,19 @@ Kelas : Informatika 1
    <img width="942" height="495" alt="image" src="https://github.com/user-attachments/assets/05929293-d7ad-448f-ab9c-77bb02fdcc96" />
 
    Kerjakan post_install.sh
+   <img width="924" height="861" alt="image" src="https://github.com/user-attachments/assets/b732dc38-9f8e-4b45-a4fd-33767fcd61d9" />
+
    Ubah ulimit
-   Buat file untuk env variables 
+   <img width="906" height="53" alt="image" src="https://github.com/user-attachments/assets/00a20842-b513-47e7-93be-2e9d32f14698" />
+
+   <img width="687" height="311" alt="image" src="https://github.com/user-attachments/assets/5faac086-68fa-400f-9a89-b98cf625ee9a" />
+
+   Buat file untuk env variables
+   <img width="434" height="57" alt="image" src="https://github.com/user-attachments/assets/c7ab2faa-3363-4363-8818-b601990fe34c" />
+
+   <img width="955" height="119" alt="image" src="https://github.com/user-attachments/assets/385092de-a174-4fba-9de3-5f6b48bbf985" />
+   <img width="554" height="73" alt="image" src="https://github.com/user-attachments/assets/455e0306-b4d6-40d2-9743-675a658040c6" />
+
 3. Buat Kluster
    Node 1
    Node 2
