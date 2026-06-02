@@ -28,7 +28,13 @@ Kelas : Informatika 1
    <img width="554" height="73" alt="image" src="https://github.com/user-attachments/assets/455e0306-b4d6-40d2-9743-675a658040c6" />
 
 3. Buat Kluster
+   <img width="438" height="96" alt="image" src="https://github.com/user-attachments/assets/3d484521-5d94-4f97-8059-24b0055c1767" />
+
    Node 1
+   <img width="929" height="627" alt="image" src="https://github.com/user-attachments/assets/d118cc94-9543-4fc7-a745-165e4577b7ca" />
+   status
+   <img width="921" height="249" alt="image" src="https://github.com/user-attachments/assets/16bfc84c-f17b-4a53-9bd8-7ecc85d02c58" />
+
    Node 2
    Node 3
 5. Sharding
