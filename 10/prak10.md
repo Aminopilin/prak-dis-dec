@@ -63,7 +63,13 @@ Kelas : Informatika 1
    <img width="728" height="350" alt="image" src="https://github.com/user-attachments/assets/96797b23-c045-46fb-9c41-bfbf2c8803c6" />
    <img width="808" height="548" alt="image" src="https://github.com/user-attachments/assets/e91bd9a8-e931-4cc1-9fd3-73523bbe8ae2" />
 
+   <img width="445" height="81" alt="image" src="https://github.com/user-attachments/assets/56bdc819-d658-49cb-9c4c-6b18e50b76b3" />
+   <img width="744" height="415" alt="image" src="https://github.com/user-attachments/assets/47063215-3cd5-4355-94a8-5c0bc7e02da4" />
+   <img width="732" height="416" alt="image" src="https://github.com/user-attachments/assets/545fc21d-3cf5-4717-989f-b3c9665f2a22" />
+   <img width="697" height="416" alt="image" src="https://github.com/user-attachments/assets/7ae7087c-690a-4240-9672-ce662a08f387" />
+
 7. Shutdown YugabyteDB
+   <img width="453" height="53" alt="image" src="https://github.com/user-attachments/assets/3095a07a-8bac-43e2-901e-4feef1552ec9" />
 
  
 Tugas 
