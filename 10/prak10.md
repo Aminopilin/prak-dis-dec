@@ -60,7 +60,9 @@ Kelas : Informatika 1
    semua data
    <img width="565" height="366" alt="image" src="https://github.com/user-attachments/assets/33e833f9-32ac-4226-9ac4-1b441dda7f75" />
    satu data
-   
+   <img width="728" height="350" alt="image" src="https://github.com/user-attachments/assets/96797b23-c045-46fb-9c41-bfbf2c8803c6" />
+   <img width="808" height="548" alt="image" src="https://github.com/user-attachments/assets/e91bd9a8-e931-4cc1-9fd3-73523bbe8ae2" />
+
 7. Shutdown YugabyteDB
 
  
