@@ -36,7 +36,16 @@ Kelas : Informatika 1
    <img width="921" height="249" alt="image" src="https://github.com/user-attachments/assets/16bfc84c-f17b-4a53-9bd8-7ecc85d02c58" />
 
    Node 2
+   <img width="942" height="603" alt="image" src="https://github.com/user-attachments/assets/d5a4e40e-e05e-4559-94f3-b4c64e79d241" />
+   status
+   <img width="872" height="270" alt="image" src="https://github.com/user-attachments/assets/cab01fdc-5373-4601-8a9b-cc01612ab6f5" />
+
    Node 3
+   <img width="923" height="645" alt="image" src="https://github.com/user-attachments/assets/13e38047-e348-4e7e-ade2-253e08759f65" />
+
+   status
+   <img width="868" height="263" alt="image" src="https://github.com/user-attachments/assets/28a85d24-0312-4b8d-8eec-19bcc08d9490" />
+
 5. Sharding
 6. Shutdown YugabyteDB
 
