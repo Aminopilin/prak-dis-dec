@@ -46,8 +46,16 @@ Kelas : Informatika 1
    status
    <img width="868" height="263" alt="image" src="https://github.com/user-attachments/assets/28a85d24-0312-4b8d-8eec-19bcc08d9490" />
 
+   Konfigurasi Data Placement
+   <img width="802" height="188" alt="image" src="https://github.com/user-attachments/assets/50f1bc22-383f-404f-bc82-1509cf281746" />
+
+   <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/5998b27d-55ff-41ce-a340-48b6beed323e" />
+
 5. Sharding
-6. Shutdown YugabyteDB
+   Range Sharding 
+   <img width="270" height="56" alt="image" src="https://github.com/user-attachments/assets/e1175c7c-49fb-4054-b3c1-fb7505e28eb6" />
+
+7. Shutdown YugabyteDB
 
  
 Tugas 
