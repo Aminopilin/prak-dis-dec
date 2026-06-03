@@ -54,7 +54,13 @@ Kelas : Informatika 1
 5. Sharding
    Range Sharding 
    <img width="270" height="56" alt="image" src="https://github.com/user-attachments/assets/e1175c7c-49fb-4054-b3c1-fb7505e28eb6" />
-
+   <img width="699" height="335" alt="image" src="https://github.com/user-attachments/assets/e2e2603f-63e7-4941-9e77-3e23731a8053" />
+   
+   Uji Query EXPLAIN
+   semua data
+   <img width="565" height="366" alt="image" src="https://github.com/user-attachments/assets/33e833f9-32ac-4226-9ac4-1b441dda7f75" />
+   satu data
+   
 7. Shutdown YugabyteDB
 
  
