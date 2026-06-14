@@ -1,6 +1,6 @@
 Nama : Aulia Rachmi Liunsanda <br>
 NIM : 235410009<br>
-Kelas : INformatika 1<br>
+Kelas : Informatika 1<br>
 
 <img width="933" height="792" alt="image" src="https://github.com/user-attachments/assets/cf1b10b3-f7b5-431e-8ec9-edb0ae3fd3fc" /> <br>
 Hash merupakan representasi unik dari suatu data yang digunakan untuk memastikan integritas informasi. Setiap perubahan pada data, bahkan hanya satu karakter saja, akan menghasilkan nilai hash yang berbeda secara signifikan. Dalam teknologi blockchain, hash berperan penting untuk menjaga keaslian dan konsistensi data sehingga setiap perubahan dapat terdeteksi dengan mudah. Salah satu algoritma hash yang banyak digunakan adalah SHA-256, yang menghasilkan nilai hash sepanjang 64 karakter heksadesimal.<br>
@@ -69,11 +69,3 @@ Hardhat merupakan framework modern yang menyediakan berbagai fitur penting untuk
 Node.js digunakan sebagai lingkungan eksekusi JavaScript yang mendukung berbagai tool pengembangan Ethereum. Banyak framework dan pustaka blockchain modern bergantung pada Node.js untuk menjalankan proses pengembangan dan pengujian aplikasi.<br>
 Alasan Pemilihan Peranti<br>
 Pemilihan kombinasi Solidity, Remix IDE, MetaMask, Hardhat, dan Node.js didasarkan pada beberapa pertimbangan utama, yaitu bersifat gratis dan open source, memiliki dokumentasi yang lengkap, didukung komunitas yang besar, serta banyak digunakan dalam industri blockchain. Selain itu, peranti-peranti tersebut memudahkan proses pengujian pada jaringan testnetseperti Sepolia dan mendukung deployment langsung ke jaringan Ethereum. Dengan kombinasi ini, proses pengembangan DApps menjadi lebih efisien, terstruktur, dan sesuai dengan praktik terbaik (best practices) dalam ekosistem Ethereum saat ini.<br>
-
-
-
-
-<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/6b06a8dc-9625-44ce-86cd-36c0c8dc9ea5" />
-
-
-
