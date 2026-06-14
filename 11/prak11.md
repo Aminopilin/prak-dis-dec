@@ -24,4 +24,14 @@ UtdiBlockchain.py berfungsi sebagai pengelola rangkaian blockchain yang terdiri 
 
 blockchain_demo_01.py merupakan program utama yang digunakan untuk mendemonstrasikan cara kerja blockchain secara sederhana. Program ini bertugas membuat objek blockchain, menambahkan beberapa data transaksi ke dalam blok baru, serta menampilkan seluruh isi blockchain yang telah terbentuk. Melalui program ini, pengguna dapat memahami proses pembentukan blok, hubungan antarblok melalui hash, dan bagaimana data disimpan secara berurutan dalam sebuah blockchain.
 
+TUGAS
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/7d980670-81b0-4c9b-a5c0-d8e41faedcdc" />
+
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/c56160b3-efa2-4cab-b419-ed12d8cc2357" />
+
+<img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/03a139d7-7e15-4dc2-b80b-3ae85e87d8ed" />
+
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/6b06a8dc-9625-44ce-86cd-36c0c8dc9ea5" />
+
+
 
